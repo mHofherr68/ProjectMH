@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Swamp
+  - FightEncounter
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2279971337
+    locked: 0
+  - name: Player
+    uniqueID: 3486886425
+    locked: 0
+  - name: Foreground
+    uniqueID: 295919111
     locked: 0
